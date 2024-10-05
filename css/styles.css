@@ -38,6 +38,11 @@ background-color: #FFFFFF;
         color: #2E2F42;
 }
 
+.header-menu-link:hover,
+.header-menu-link:focus {
+color: #404BBF;
+}
+
 .header-contacts {
 font-style: normal;
 }
@@ -51,7 +56,7 @@ font-style: normal;
 
 .header-contacts-link:hover,
 .header-contacts-link:focus {
-    color: #404bbf;
+    color: #404BBF;
 }
 
 .hero {
